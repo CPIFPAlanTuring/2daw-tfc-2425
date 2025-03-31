@@ -38,12 +38,11 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Francisco Javier Cabello Rueda |
 | [Proyecto]()                                                                      |Francisco Cedillo Serrato |
 | [Proyecto]()                                                                      |Juan Francisco Chacón Macías |
-| [Proyecto](https://github.com/juancid08/beautyBook)                               |Juan Cid Benítez |
+| [BeautyBook](https://github.com/juancid08/beautyBook)                             |Juan Cid Benítez <br> Samuel Lapeira Pérez |
 | [Proyecto]()                                                                      |Sergio Gámez Ortega |
 | [Proyecto]()                                                                      |Pablo Gil Díaz |
 | [Proyecto]()                                                                      |Antonio Jesús Heredia Leiva |
 | [Proyecto]()                                                                      |Francisco Jiménez López |
-| [Proyecto](https://github.com/juancid08/beautyBook)                               |Samuel Lapeira Pérez |
 | [Proyecto]()                                                                      |Gonzalo Lázaro Zambrano |
 | [Proyecto]()                                                                      |Álvaro Leiva García |
 | [Proyecto]()                                                                      |Álvaro López Guerrero |
