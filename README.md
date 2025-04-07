@@ -35,7 +35,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Nidhu](https://github.com/Sunderfal/Nidhu)                                       |Sofía Béjar Rimoldi <br>Sergio Gámez Ortega |
 | [Proyecto]()                                                                      |Alfonso Jesús Bravo Romo |
 | [ChefMate](https://github.com/FranciscoCabelloRueda/ChefMate)                                                                      |Francisco Javier Cabello Rueda |
-| [ClassroomNexus](https://github.com/FCedillo98/ClassroomNexus)                   |Francisco Cedillo Serrato |
+| [Classroom-Nexus](https://github.com/FCedillo98/ClassroomNexus)                   |Francisco Cedillo Serrato |
 | [HealthTuring](https://github.com/HealthTuring/HealthTuring)                      |Juan Francisco Chacón Macías <br>Álvaro López Guerrero |
 | [BeautyBook](https://github.com/juancid08/beautyBook)                             |Juan Cid Benítez <br> Samuel Lapeira Pérez |
 | [Pixela](https://github.com/envyx10/Pixela.git)                                   |Pablo Gil Díaz <br>Ruyi Xia Ye |
