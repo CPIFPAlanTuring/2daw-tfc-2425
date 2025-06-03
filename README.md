@@ -76,7 +76,7 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 
 :white_check_mark:  08:30h **[Retroteca](https://github.com/CompiTrabajo2DAW/RETROTECA)** - Ávila Rosas Miguel Ángel y Alarcón Fortes Manuel<br/>
 :white_check_mark:  08:50h **[FoodFlow](https://github.com/Hisui02/FoodFlow)** - Barnestein Martos Alejandro y Álvaro Leiva García<br/>
-:white_check_mark:  09:10h **[Nidhu](https://github.com/Sunderfal/Nidhu)** - Sofía Béjar Rimoldi <br>Sergio Gámez Ortega <br/>
+:white_check_mark:  09:10h **[Nidhu](https://github.com/Sunderfal/Nidhu)** - Sofía Béjar Rimoldi y Sergio Gámez Ortega <br/>
 :white_check_mark:  09:30h **[ChefMate](https://github.com/FranciscoCabelloRueda/ChefMate)** - Francisco Javier Cabello Rueda<br/>
 :white_check_mark:  09:50h **[Classroom-Nexus](https://github.com/FCedillo98/ClassroomNexus)** - Francisco Cedillo Serrato<br/>
 :white_check_mark:  10:10h **[HealthTuring](https://github.com/HealthTuring/HealthTuring)** - Juan Francisco Chacón Macías  y Álvaro López Guerrero<br/>
