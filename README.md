@@ -72,9 +72,23 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 La fecha y hora de exposición del alumnado se comunicará a través de este canal. La exposición tendrá una duración máxima de 10 minutos, de los cuales, los primeros 5 minutos se dedicarán a la exposición por parte de los alumnos y los 5 restantes para preguntas del profesorado. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
 
 **2º DAW Mañana**
-#### :calendar: TBD (junio 2025)
+#### :calendar: martes 17 de junio de 2025
 
-:white_check_mark:  Hora **[Proyecto]()** - Alumno(s)<br/>
+:white_check_mark:  08:30h **[Retroteca](https://github.com/CompiTrabajo2DAW/RETROTECA)** - Ávila Rosas Miguel Ángel y Alarcón Fortes Manuel<br/>
+:white_check_mark:  08:50h **[FoodFlow](https://github.com/Hisui02/FoodFlow)** - Barnestein Martos Alejandro y Álvaro Leiva García<br/>
+:white_check_mark:  09:10h **[Nidhu](https://github.com/Sunderfal/Nidhu)** - Sofía Béjar Rimoldi <br>Sergio Gámez Ortega <br/>
+:white_check_mark:  09:30h **[ChefMate](https://github.com/FranciscoCabelloRueda/ChefMate)** - Francisco Javier Cabello Rueda<br/>
+:white_check_mark:  09:50h **[Classroom-Nexus](https://github.com/FCedillo98/ClassroomNexus)** - Francisco Cedillo Serrato<br/>
+:white_check_mark:  10:10h **[HealthTuring](https://github.com/HealthTuring/HealthTuring)** - Juan Francisco Chacón Macías  y Álvaro López Guerrero<br/>
+:white_check_mark:  10:30h **[BeautyBook](https://github.com/juancid08/beautyBook)** - Juan Cid Benítez y Samuel Lapeira Pérez<br/>
+:white_check_mark:  10:50h **[Pixela](https://github.com/envyx10/Pixela.git)** - Pablo Gil Díaz y Ruyi Xia Ye<br/>
+:white_check_mark:  11:45h **[SeatLookFor](https://github.com/toniipower/SeatLookFor)** - Antonio Jesús Heredia Leiva y Francisco Jiménez López <br/>
+:white_check_mark:  12:05h **[Proyecto]()** - Francisco Jiménez López<br/>
+:white_check_mark:  12:25h **[BookHeaven](https://github.com/GLazaro8/TFC-BookHeaven)** - Gonzalo Lázaro Zambrano<br/>
+:white_check_mark:  12:45h **[aLibrary](https://github.com/jaimenavasmartin/proyecto-final-ciclo)** - Daniel de Poorter Vázquez y Jaime Navas Martín<br/>
+:white_check_mark:  13:05h **[Rayito de Sol](https://github.com/Kazuma275/Rayito-de-Sol)** - Sergio Ramos Alarcón<br/>
+:white_check_mark:  13:25h **[Van&go](https://github.com/albaromero6/VanGo-TFG)** - Alba Romero Almansa<br/>
+
 
 
 
