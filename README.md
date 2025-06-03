@@ -83,11 +83,11 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 :white_check_mark:  10:30h **[BeautyBook](https://github.com/juancid08/beautyBook)** - Juan Cid Benítez y Samuel Lapeira Pérez<br/>
 :white_check_mark:  10:50h **[Pixela](https://github.com/envyx10/Pixela.git)** - Pablo Gil Díaz y Ruyi Xia Ye<br/>
 :white_check_mark:  11:45h **[SeatLookFor](https://github.com/toniipower/SeatLookFor)** - Antonio Jesús Heredia Leiva y Francisco Jiménez López <br/>
-:white_check_mark:  12:05h **[Proyecto]()** - Francisco Jiménez López<br/>
-:white_check_mark:  12:25h **[BookHeaven](https://github.com/GLazaro8/TFC-BookHeaven)** - Gonzalo Lázaro Zambrano<br/>
-:white_check_mark:  12:45h **[aLibrary](https://github.com/jaimenavasmartin/proyecto-final-ciclo)** - Daniel de Poorter Vázquez y Jaime Navas Martín<br/>
-:white_check_mark:  13:05h **[Rayito de Sol](https://github.com/Kazuma275/Rayito-de-Sol)** - Sergio Ramos Alarcón<br/>
-:white_check_mark:  13:25h **[Van&go](https://github.com/albaromero6/VanGo-TFG)** - Alba Romero Almansa<br/>
+:white_check_mark:  12:05h **[BookHeaven](https://github.com/GLazaro8/TFC-BookHeaven)** - Gonzalo Lázaro Zambrano<br/>
+:white_check_mark:  12:25h **[aLibrary](https://github.com/jaimenavasmartin/proyecto-final-ciclo)** - Daniel de Poorter Vázquez y Jaime Navas Martín<br/>
+:white_check_mark:  12:45h **[Rayito de Sol](https://github.com/Kazuma275/Rayito-de-Sol)** - Sergio Ramos Alarcón<br/>
+:white_check_mark:  13:05h **[Van&go](https://github.com/albaromero6/VanGo-TFG)** - Alba Romero Almansa<br/>
+
 
 
 
